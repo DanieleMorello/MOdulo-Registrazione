@@ -1,2 +1,2 @@
-# DanieleMorello-Modulo-Registrazione
+# Modulo-Registrazione
 A project of freeCodeCamp course
